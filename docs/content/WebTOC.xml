@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="1fcb9221-4f08-4e80-9ae1-f14a59677b95" Title="Пространства имен" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="dd6e37ab-015d-4ad2-b456-dc75f213529d" Title="PZone.Web.Mvc" Url="html/N_PZone_Web_Mvc.htm">
+      <HelpTOCNode Id="62c9e739-44b1-407a-b013-52bd2df5facc" Title="ExtendedController - класс" Url="html/T_PZone_Web_Mvc_ExtendedController.htm">
+        <HelpTOCNode Title="ExtendedController - конструктор" Url="html/M_PZone_Web_Mvc_ExtendedController__ctor.htm" />
+        <HelpTOCNode Title="ExtendedController - свойства" Url="html/Properties_T_PZone_Web_Mvc_ExtendedController.htm" />
+        <HelpTOCNode Id="53c74d10-8cd3-478d-9b61-3f109696c594" Title="ExtendedController - методы" Url="html/Methods_T_PZone_Web_Mvc_ExtendedController.htm">
+          <HelpTOCNode Id="afb588a3-2318-47cf-9ffe-7e47dde682e3" Title="HttpBadRequest - метод" Url="html/Overload_PZone_Web_Mvc_ExtendedController_HttpBadRequest.htm">
+            <HelpTOCNode Title="HttpBadRequest - метод" Url="html/M_PZone_Web_Mvc_ExtendedController_HttpBadRequest.htm" />
+            <HelpTOCNode Title="HttpBadRequest(String) - метод" Url="html/M_PZone_Web_Mvc_ExtendedController_HttpBadRequest_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c2d3744a-b87d-4f59-8cf7-a57d4d68d6c7" Title="HtmlHelperExtension - класс" Url="html/T_PZone_Web_Mvc_HtmlHelperExtension.htm">
+        <HelpTOCNode Id="350016ac-8493-4da9-b5d8-5d83a2af8503" Title="HtmlHelperExtension - методы" Url="html/Methods_T_PZone_Web_Mvc_HtmlHelperExtension.htm">
+          <HelpTOCNode Id="0644a067-7acd-4d29-b7cc-6f217b2fdb2b" Title="DescriptionFor - метод" Url="html/Overload_PZone_Web_Mvc_HtmlHelperExtension_DescriptionFor.htm">
+            <HelpTOCNode Title="DescriptionFor(TModel, TValue)(HtmlHelper`1(TModel), Expression(Func(TModel, TValue))) - метод" Url="html/M_PZone_Web_Mvc_HtmlHelperExtension_DescriptionFor__2.htm" />
+            <HelpTOCNode Title="DescriptionFor(TModel, TValue)(HtmlHelper`1(TModel), Expression(Func(TModel, TValue)), Object) - метод" Url="html/M_PZone_Web_Mvc_HtmlHelperExtension_DescriptionFor__2_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="MenuActionLink - метод" Url="html/M_PZone_Web_Mvc_HtmlHelperExtension_MenuActionLink.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9ad35651-f42c-4fa3-9685-bf2b4b944fcb" Title="HttpBadRequestResult - класс" Url="html/T_PZone_Web_Mvc_HttpBadRequestResult.htm">
+        <HelpTOCNode Id="1064df5c-0fc0-405f-9099-3f1b1d7c6677" Title="HttpBadRequestResult - конструктор" Url="html/Overload_PZone_Web_Mvc_HttpBadRequestResult__ctor.htm">
+          <HelpTOCNode Title="HttpBadRequestResult - конструктор" Url="html/M_PZone_Web_Mvc_HttpBadRequestResult__ctor.htm" />
+          <HelpTOCNode Title="HttpBadRequestResult(String) - конструктор" Url="html/M_PZone_Web_Mvc_HttpBadRequestResult__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="HttpBadRequestResult - свойства" Url="html/Properties_T_PZone_Web_Mvc_HttpBadRequestResult.htm" />
+        <HelpTOCNode Title="HttpBadRequestResult - методы" Url="html/Methods_T_PZone_Web_Mvc_HttpBadRequestResult.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
