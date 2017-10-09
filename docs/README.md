@@ -1,6 +1,6 @@
 ## Documentation
 <ul>
-<li><a href="content/index.html">Documentation</a></li>
+<li><a href="data/index.html">Documentation</a></li>
 </ul>
 
 ## Install from NuGet

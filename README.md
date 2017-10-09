@@ -3,7 +3,7 @@ Components to MVC5 development.
 
 ## Documentation
 <ul>
-<li><a href="https://zooy.github.io/PZone.SDK.Web.MVC5/content/index.html">Documentation</a></li>
+<li><a href="https://zooy.github.io/PZone.SDK.Web.MVC5/data/index.html">Documentation</a></li>
 </ul>
 
 ## Install from NuGet

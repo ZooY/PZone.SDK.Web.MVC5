@@ -14,7 +14,7 @@
     <Name>Documentation</Name>
     <!-- SHFB properties -->
     <FrameworkVersion>.NET Framework 4.0</FrameworkVersion>
-    <OutputPath>docs\</OutputPath>
+    <OutputPath>docs\data\</OutputPath>
     <HtmlHelpName>Documentation</HtmlHelpName>
     <Language>ru-RU</Language>
     <SaveComponentCacheCapacity>100</SaveComponentCacheCapacity>
@@ -26,7 +26,8 @@
     <CleanIntermediates>True</CleanIntermediates>
     <DocumentationSources>
       <DocumentationSource sourceFile="Source\PZone.Web.Mvc5\bin\Release\PZone.Web.Mvc5.xml" />
-<DocumentationSource sourceFile="Source\PZone.Web.Mvc5\bin\Release\PZone.Web.Mvc5.dll" /></DocumentationSources>
+      <DocumentationSource sourceFile="Source\PZone.Web.Mvc5\bin\Release\PZone.Web.Mvc5.dll" />
+    </DocumentationSources>
     <HelpFileVersion>1.0.5</HelpFileVersion>
     <MaximumGroupParts>2</MaximumGroupParts>
     <NamespaceGrouping>True</NamespaceGrouping>
@@ -53,11 +54,12 @@
     <WarnOnMissingSourceContext>False</WarnOnMissingSourceContext>
     <NamespaceSummaries>
       <NamespaceSummaryItem name="PZone (Group)" isGroup="True" isDocumented="True">Common components for C# application developing.</NamespaceSummaryItem>
-<NamespaceSummaryItem name="PZone" isDocumented="True">Корневое пространство имен.</NamespaceSummaryItem>
-<NamespaceSummaryItem name="PZone.Exceptions" isDocumented="True">Общие типы исключений.</NamespaceSummaryItem>
-<NamespaceSummaryItem name="PZone.Formatting" isDocumented="True">Инструменты форматирования данных различных типов.</NamespaceSummaryItem>
-<NamespaceSummaryItem name="PZone.Helpers" isDocumented="True">Хелперы для работы с различными типами данных.</NamespaceSummaryItem>
-<NamespaceSummaryItem name="PZone.Web.Mvc" isDocumented="True">Components to MVC5 development.</NamespaceSummaryItem></NamespaceSummaries>
+      <NamespaceSummaryItem name="PZone" isDocumented="True">Корневое пространство имен.</NamespaceSummaryItem>
+      <NamespaceSummaryItem name="PZone.Exceptions" isDocumented="True">Общие типы исключений.</NamespaceSummaryItem>
+      <NamespaceSummaryItem name="PZone.Formatting" isDocumented="True">Инструменты форматирования данных различных типов.</NamespaceSummaryItem>
+      <NamespaceSummaryItem name="PZone.Helpers" isDocumented="True">Хелперы для работы с различными типами данных.</NamespaceSummaryItem>
+      <NamespaceSummaryItem name="PZone.Web.Mvc" isDocumented="True">Components to MVC5 development.</NamespaceSummaryItem>
+    </NamespaceSummaries>
     <RootNamespaceTitle>
     </RootNamespaceTitle>
   </PropertyGroup>
